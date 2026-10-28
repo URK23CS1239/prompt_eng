@@ -1,0 +1,6 @@
+{
+  "name": "MedExplain AI – Health Assistant",
+  "description": "Clean, modern healthcare web application to understand medical reports, ask health questions, discover safe home remedies, and compare test results.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
